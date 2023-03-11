@@ -1,0 +1,2 @@
+- Connect EC2 bằng ssh
+ssh -i ./EC2Tutorial.pem ec2-user@34.204.82.0
